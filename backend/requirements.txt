@@ -10,4 +10,5 @@ bcrypt
 email-validator
 pydantic[email]
 websockets
-httpx
+httpx   
+gunicorn
