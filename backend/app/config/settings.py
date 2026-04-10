@@ -1,4 +1,6 @@
 from pydantic_settings import BaseSettings
+import os
+import load_dotenv
 
 
 class Settings(BaseSettings):
